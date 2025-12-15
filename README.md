@@ -7,7 +7,7 @@ low-light and motion-blur scenarios.
 The system consists of three main stages:
 1. Low-light image enhancement
 2. Motion deblurring
-3. Pedestrian detection using YOLO
+3. Pedestrian detection using YOLOv8m
 
 Both traditional and deep-learning-based preprocessing methods are evaluated.
 
